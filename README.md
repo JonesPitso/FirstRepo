@@ -1,2 +1,2 @@
 # FirstRepo
-Intelij Project
+GIT Practice Repo
